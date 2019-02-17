@@ -1,0 +1,2 @@
+# switchkind
+GitHub Pages
