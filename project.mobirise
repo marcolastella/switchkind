@@ -53,7 +53,7 @@
     "uniqCompNum": 21,
     "versionPublish": "4.9.1",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/iso-639-icon-sk.svg-128x58.png",
     "noImageResize": ""
   },
   "pages": {
